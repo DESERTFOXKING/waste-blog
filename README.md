@@ -1,2 +1,2 @@
 # waste-blog
-博客
+webpack入门配置
